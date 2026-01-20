@@ -1,2 +1,3 @@
-# polysance.github.io
-The polysance GitPages repository
+## polysance.github.io
+
+The polysance GitPages repository.

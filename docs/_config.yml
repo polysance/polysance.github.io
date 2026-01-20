@@ -5,7 +5,7 @@ timezone: Europe/Amsterdam
 title: Polysance # the main title
 tagline: Academic Pages for Polysance # it will display as the subtitle
 description: >- # used by seo meta and the atom feed
-  Polysance is .
+  Polysance is for learning the concepts of multiprogramming and multicompute.
 url: "https://polysance.github.io"
 pageviews:
   provider: # now only supports 'goatcounter'

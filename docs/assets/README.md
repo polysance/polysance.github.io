@@ -4,4 +4,4 @@ Polysance's purpose is to facilitate vocational training and education in the ar
 
 ### Learn Moore
 
-Words.
+Words

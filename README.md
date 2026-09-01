@@ -1,3 +1,3 @@
-## polysance.github.io
+## The Polysance Initiative
 
-The polysance GitPages repository.
+This is the GitPages repository.

@@ -1,4 +1,4 @@
-## Polysance
+## An initiative to sustain a bright human-based future
 
 ![image](./assets/intiative.jpg)
 

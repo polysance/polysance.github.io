@@ -3,9 +3,9 @@ lang: en
 timezone: Europe/Amsterdam
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 title: Polysance # the main title
-tagline: Learn Ideal # it will display as the subtitle
+tagline: For bored, bright students
 description: >- # used by seo meta and the atom feed
-  Polysance is for learning the concepts of multiprogramming and multicompute using Ideal machine intelligence.
+  Polysance is teaching multicompute and unbiased self-programming paradigms of machine intelligence.
 url: "https://polysance.github.io"
 pageviews:
   provider: # now only supports 'goatcounter'

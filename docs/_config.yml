@@ -5,7 +5,7 @@ timezone: Europe/Amsterdam
 title: Polysance # the main title
 tagline: For bored, bright students
 description: >- # used by seo meta and the atom feed
-  Polysance is teaching multicompute and unbiased self-programming paradigms of machine intelligence.
+  Teaching multicompute and unbiased self-programming paradigms of machine intelligence.
 url: "https://polysance.github.io"
 pageviews:
   provider: # now only supports 'goatcounter'

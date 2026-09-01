@@ -1,4 +1,4 @@
-## An initiative to sustain a bright human-based future
+### An initiative to sustain a bright human-based future
 
 ![image](./assets/intiative.jpg)
 
